@@ -1,0 +1,15 @@
+[submodule "client-service"]
+	path = client-service
+	url = https://github.com/BAT333/client-service.git
+[submodule "property-service"]
+	path = property-service
+	url = https://github.com/BAT333/property-service.git
+[submodule "search-service"]
+	path = search-service
+	url = https://github.com/BAT333/search-service.git
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/BAT333/auth-service.git
+[submodule "employee-service"]
+	path = employee-service
+	url = https://github.com/BAT333/employee-service.git
