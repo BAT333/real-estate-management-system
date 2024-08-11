@@ -13,3 +13,6 @@
 [submodule "employee-service"]
 	path = employee-service
 	url = https://github.com/BAT333/employee-service.git
+[submodule "email-service"]
+	path = email-service
+	url = https://github.com/BAT333/email-service.git
