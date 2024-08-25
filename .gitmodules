@@ -16,3 +16,6 @@
 [submodule "email-service"]
 	path = email-service
 	url = https://github.com/BAT333/email-service.git
+[submodule "whatsApp-service"]
+	path = whatsApp-service
+	url = https://github.com/BAT333/whatsApp-service.git
