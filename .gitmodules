@@ -25,3 +25,6 @@
 [submodule "gateway"]
 	path = gateway
 	url = https://github.com/BAT333/Gateway.git
+[submodule "sale-service"]
+	path = sale-service
+	url = https://github.com/BAT333/Sale-service.git
