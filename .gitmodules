@@ -26,3 +26,6 @@
 	path = gateway
 	url = https://github.com/BAT333/Gateway.git
 
+[submodule "monitoring"]
+	path = monitoring
+	url = https://github.com/BAT333/Monitoring.git
